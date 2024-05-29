@@ -1,3 +1,5 @@
 # Progetto Minecraft
 
-Usare github desktop
+## Scrum Poker
+
+[SCRUM POKER](https://www.scrumpoker-online.org/en/room/05106297/scrum-poker)
