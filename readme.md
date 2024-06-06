@@ -7,3 +7,7 @@
 ## Scrum Poker
 
 [SCRUM POKER](https://www.scrumpoker-online.org/en/room/70398730/scrum-poker)
+
+## Retrospective
+
+[RETROSPECTIVE](https://github.com/orgs/IngSoftwareDevOps/projects/2/views/1)
